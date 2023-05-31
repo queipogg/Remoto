@@ -5,3 +5,8 @@ ahora subiremos a remoto lo que esta en main
 solo clonamos, no iniciamos
 
 practica pull
+
+
+
+
+bueno, queremos hacer un rebase
